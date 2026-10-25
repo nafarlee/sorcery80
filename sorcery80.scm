@@ -1,8 +1,8 @@
-;; title:   game title
-;; author:  game developer, email, etc.
-;; desc:    short description
-;; site:    website link
-;; license: MIT License (change this to your license of choice)
+;; title:   sorcery80
+;; author:  nafarlee
+;; desc:    Sorcery: Contested Realm for the TIC-80
+;; site:    github.com/nafarlee
+;; license: Apache-2.0 License
 ;; version: 0.1
 ;; script:  scheme
 
